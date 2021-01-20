@@ -1,6 +1,7 @@
 # Installing pandoc
 
 The simplest way to get the latest pandoc release is to use the installer.
+Really, just try it.
 
 <a href="https://github.com/jgm/pandoc/releases/latest"
   class="btn btn-primary" id="downloadInstallerBtn">
